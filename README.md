@@ -1,1 +1,1 @@
-# smart-ai
+# ai-travel
